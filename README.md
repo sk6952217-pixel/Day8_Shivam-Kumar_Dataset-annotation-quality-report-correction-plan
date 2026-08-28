@@ -1,7 +1,5 @@
 # Dataset and Annotation Quality Report
 
-## Day 1 Task
-
 ### Objective
 
 The objective of this task is to inspect the underwater image dataset and identify possible quality issues related to images, file organization, naming, and input-target correspondence.
